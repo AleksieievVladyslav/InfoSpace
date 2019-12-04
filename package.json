@@ -1,5 +1,5 @@
 {
-  "name": "InfoSpace",
+  "name": "infospace",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/AleksieievVladyslav/InfoSpace/issues"
   },
-  "homepage": "https://github.com/AleksieievVladyslav/InfoSpace#readme"
+  "homepage": "https://github.com/AleksieievVladyslav/InfoSpace#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
 }
